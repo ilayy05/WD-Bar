@@ -1,0 +1,52 @@
+
+
+@font-face {
+    font-family: myFont;
+    src: url(/assets/fonts/bar.otf);
+}
+
+body {
+
+    position: relative;
+    border-width: 10px;
+    position: relative;
+    height: 11in;
+    border-style: solid;
+    border-image-source: linear-gradient(rgba(0, 0, 0, 0.473),rgb(0, 0, 0));
+    border-image-slice: fill 1;
+    
+    
+}
+
+video{
+
+    width: 20in;
+    position: relative;
+    bottom: 2.5in;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+h1{
+    top: 350px;
+    position: relative;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 80px;
+    font-family: myFont;
+    left: .4in;
+    
+    
+}
+
+p{
+
+    top: 330px;
+    position: relative;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 7px; 
+}
+
