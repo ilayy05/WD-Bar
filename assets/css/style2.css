@@ -101,7 +101,7 @@ h2{
     background-color: #1a1a1a;
     color: azure;
     border: 1px;
-    height: 1000px;
+    height: 100%;
     width: 100%;
-    bottom: 10in;
+    padding-bottom: 5rem;
 }
