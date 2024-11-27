@@ -15,10 +15,8 @@
 <div align="center">
   Short Description. (Optional)
 </div>
+
 <br />
-
-[![wakatime](https://wakatime.com/badge/user/90ae2608-a830-4ade-9b13-86c2e13efdbd/project/732fe004-d26b-4741-88d9-fde90d50c397.svg)](https://wakatime.com/badge/user/90ae2608-a830-4ade-9b13-86c2e13efdbd/project/732fe004-d26b-4741-88d9-fde90d50c397)
-
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
