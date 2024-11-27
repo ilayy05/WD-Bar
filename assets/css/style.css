@@ -5,6 +5,45 @@
     src: url(/assets/fonts/bar.otf);
 }
 
+
+
+@keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  
+  .fade-in-up {
+    animation: fadeInUp 1.5s ease-out forwards;
+  }
+  
+  
+  .nav-link {
+    animation-delay: 0.3s;
+  }
+  
+  .page1 h1 {
+    animation-delay: 0.5s;
+  }
+  
+  .page1 p {
+    animation-delay: 0.7s;
+  }
+  
+  .page1 video {
+    animation-delay: 1s;
+  }
+  
+
+
+
+
 body {
 
     position: relative;
